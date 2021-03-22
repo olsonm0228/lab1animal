@@ -1,0 +1,16 @@
+C:\SchoolStuff\MobileApplication\lab1animal\obj\Debug\net5.0\lab1animal.csprojAssemblyReference.cache
+C:\SchoolStuff\MobileApplication\lab1animal\obj\Debug\net5.0\lab1animal.GeneratedMSBuildEditorConfig.editorconfig
+C:\SchoolStuff\MobileApplication\lab1animal\obj\Debug\net5.0\lab1animal.AssemblyInfoInputs.cache
+C:\SchoolStuff\MobileApplication\lab1animal\obj\Debug\net5.0\lab1animal.AssemblyInfo.cs
+C:\SchoolStuff\MobileApplication\lab1animal\obj\Debug\net5.0\lab1animal.csproj.CoreCompileInputs.cache
+C:\SchoolStuff\MobileApplication\lab1animal\bin\Debug\net5.0\lab1animal.exe
+C:\SchoolStuff\MobileApplication\lab1animal\bin\Debug\net5.0\lab1animal.deps.json
+C:\SchoolStuff\MobileApplication\lab1animal\bin\Debug\net5.0\lab1animal.runtimeconfig.json
+C:\SchoolStuff\MobileApplication\lab1animal\bin\Debug\net5.0\lab1animal.runtimeconfig.dev.json
+C:\SchoolStuff\MobileApplication\lab1animal\bin\Debug\net5.0\lab1animal.dll
+C:\SchoolStuff\MobileApplication\lab1animal\bin\Debug\net5.0\ref\lab1animal.dll
+C:\SchoolStuff\MobileApplication\lab1animal\bin\Debug\net5.0\lab1animal.pdb
+C:\SchoolStuff\MobileApplication\lab1animal\obj\Debug\net5.0\lab1animal.dll
+C:\SchoolStuff\MobileApplication\lab1animal\obj\Debug\net5.0\ref\lab1animal.dll
+C:\SchoolStuff\MobileApplication\lab1animal\obj\Debug\net5.0\lab1animal.pdb
+C:\SchoolStuff\MobileApplication\lab1animal\obj\Debug\net5.0\lab1animal.genruntimeconfig.cache
